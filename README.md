@@ -1,7 +1,7 @@
 # algorithm_acmicpc.net
 백준 온라인 저지 알고리즘 with python
 
-# 알고리즘을 공부하며 떠올린 것들
+## 알고리즘을 공부하며 떠올린 것들
   - 스승님이 Document를 보라 하셨다. https://docs.python.org/ko/3/
   - 한 언어가 능숙해지면 다른 언어로도 도전해 봐야지.
   - 단순한 문제도 돌아보기
